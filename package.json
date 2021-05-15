@@ -1,6 +1,6 @@
 {
   "name": "unisms",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "UniSMS (Universal Short Message Service) SDK for Node.js.",
   "main": "./lib",
   "types": "./lib/index.d.ts",
