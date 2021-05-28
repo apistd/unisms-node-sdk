@@ -61,5 +61,6 @@ client.send({
 ### 其他语言 SDK
 
 - [Java](https://github.com/apistd/uni-java-sdk)
+- [Go](https://github.com/apistd/uni-go-sdk)
 - [Python](https://github.com/apistd/uni-python-sdk)
 - [PHP](https://github.com/apistd/uni-php-sdk)

@@ -16,7 +16,12 @@ export type SendByContentParams = {
   templateData?: KVMap
 }
 
-export type SendParams = SendByTemplateParams | SendByContentParams
+export type SendByTextParams = {
+  to: string | string[]
+  text: string
+}
+
+export type SendParams = SendByTemplateParams | SendByContentParams | SendByTextParams
 
 export interface Message {
   id: string
